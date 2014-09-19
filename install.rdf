@@ -4,8 +4,8 @@
     <em:id>support@dida365.com</em:id>
     <em:type>2</em:type>
     <em:name>滴答清单</em:name>
-    <em:version>0.1</em:version>
-    <em:creator>滴答清单</em:creator>
+    <em:version>1.0.0</em:version>
+    <em:creator>滴答清单团队</em:creator>
     <em:homepageURL>http://dida365.com</em:homepageURL>
     <em:iconURL>chrome://ticktick_sidebar/skin/ticktick-sidebar.png</em:iconURL>
     <em:description>一个帮您高效完成任务和规划时间的应用。</em:description>
@@ -13,7 +13,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>1.5</em:minVersion>
-        <em:maxVersion>29.*</em:maxVersion>
+        <em:maxVersion>32.*</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>
